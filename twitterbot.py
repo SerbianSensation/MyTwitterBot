@@ -2,10 +2,10 @@ import tweepy
 import time
 
 #Twitter API goodies hehe
-CONSUMER_KEY = 'ddj3dwV60usID7w7gB2TaYQHk'
-CONSUMER_SECRET = 'WKY7cvfKVRzz2xBKMdf46o0B27rAMUgtOLzDGyZ9QuD2cZoADX'
-ACCESS_KEY = '1188999413450055683-Jt4A1vp6tvWMXJu0aNT2VcSqkP5Prl'
-ACCESS_SECRET = 'AwoNnR6SKZffccBi7YMpmbQfSEEo9Xh6J4BFfSAeaohG7'
+CONSUMER_KEY = 'ckey'
+CONSUMER_SECRET = 'csecret'
+ACCESS_KEY = 'akey'
+ACCESS_SECRET = 'as'
 
 #Possible useful methods: API.search() [under Help Methods]
 
